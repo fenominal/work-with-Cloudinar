@@ -8,5 +8,6 @@ step :-
 - create folder and open cmd
 - npm install cloudinary
 - downlode file and past  in to that folder
+- make .env file and add   CLOUD_NAME=// your account name ,API_KEY= // api key, API_SECRET= // secret key
 - now run with npm star
 - open browser with prot in code you find and uplode folder 
